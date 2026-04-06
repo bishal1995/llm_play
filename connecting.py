@@ -37,4 +37,3 @@ def ask_chatgpt(user_message):
 
 user_message = "Who is the most powerful person in India"
 response = ask_chatgpt(user_message=user_message)
-
